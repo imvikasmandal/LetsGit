@@ -5,7 +5,7 @@ public class sum
       int a = 5;
       int b = 6;
 
-      System.out.println("Print diff is"+ (a-b));
+      System.out.println("Print Multiply is"+ (a*b));
 
     }
 }
